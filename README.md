@@ -6,7 +6,7 @@ nginx-aegea
 
 ##### Отличие этого форка в том, что он для
 
-* Digital Ocean
+* [Digital Ocean](https://www.digitalocean.com/?refcode=de5438186cb1)
 * (nginx)
 * Ubuntu
 * Phusion Passenger
